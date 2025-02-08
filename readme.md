@@ -27,4 +27,8 @@ Include a description of what the page(s) output in a readme.txt. This is simple
 Include the HTML and CSS page name(s) in your readme.txt file.
 Use good formatted, easy-to-read, and commented code.
 User-Friendly interface, including readable output, Interface is self-explaining
-The solution is written for the problem assigned and includes all required functionality. 
+The solution is written for the problem assigned and includes all required functionality.
+
+## Final Thoughts
+
+This a nice looking webpage that gives information about the Constitution. Making it very easy to read so that you can have a nice understanding of the Constitution. It is inspired by American colors, with the red, white, and blue. I hope that you like it, and hop you know your rights. Please read!!
