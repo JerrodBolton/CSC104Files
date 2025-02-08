@@ -1,35 +1,37 @@
-body{
-	background: -webkit-linear-gradient(right, #00FF00, #000000, #00aa00);
-	background: -moz-linear-gradient(right, #00FF00, #000000, #00aa00);
-	background: -o-linear-gradient(right, #00FF00, #000000, #00aa00);
-	background: linear-gradient(to right, #00FF00, #000000, #00aa00);
-	color: #00FF00;
+body {
+  /* this make the background a different color */
+  background-color: #010b8f;
+  /* The padding change the outer part of all tags in the body */
+  padding-left: 30px;
+  padding-right: 30px;
+  height: 5000px; /* Make this site really long */
+  width: 5000px; /* Make this site really wide */
+  overflow: hidden; /* Hide scrollbars */
 }
 
-h1{
-	color: #00eeff;
-	text-shadow:0 0 2px aqua;
-	font-family: times new roman, arial;
+h1 {
+  /* this make the color of the text white */
+  color: rgb(188, 188, 188);
+  /* this make the text align to the center */
+  text-align: center;
+  /* this puts a underline under the title */
+  text-decoration: underline;
 }
 
-h2{
-	color: #000fff;
-	text-shadow:0 0 2px blue;
-	font-family: times new roman, arial;
+a {
+  color: red;
 }
 
-h3{
-	color: #ffbbbb;
-	text-shadow:0 0 2px blue;
-	font-family: times new roman, arial;
+a:hover {
+  color: rgb(77, 21, 21);
 }
 
-p{
-	color: #00bbbb;
-	text-shadow:0 0 2px purple;
-	font-family: times new roman, arial;
+.title {
+  /* make the titles into a new color */
+  color: #ff0000;
 }
 
-a:visited{
-	color: aqua;
+p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: rgb(188, 188, 188);
 }
