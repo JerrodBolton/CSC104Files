@@ -6,16 +6,17 @@ body {
   padding-right: 30px;
   height: 5000px; /* Make this site really long */
   width: 5000px; /* Make this site really wide */
-  overflow: hidden; /* Hide scrollbars */
+  overflow: hidden; /* Hide scrollbar */
 }
 
 h1 {
   /* this make the color of the text white */
-  color: rgb(188, 188, 188);
+  color: rgb(236, 7, 7);
   /* this make the text align to the center */
   text-align: center;
   /* this puts a underline under the title */
   text-decoration: underline;
+
 }
 
 a {
@@ -32,6 +33,6 @@ a:hover {
 }
 
 p {
-  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  /* font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif; */
   color: rgb(188, 188, 188);
 }
